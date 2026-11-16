@@ -1,0 +1,3 @@
+In this graph i have successfully fixed a prevailing problem. This problem is with the plotting of the Wall Temp graph. I have made sure that it is not showing false cooling for engine bay as it was before, I have also fixed a problem with the coolant required graph. Both these graphs still need final iterations to make them as close to perfect as i can. However since this simulation still shows graph mistakes.
+
+Hence, this is rejected

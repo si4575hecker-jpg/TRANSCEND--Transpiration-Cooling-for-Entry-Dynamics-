@@ -1,0 +1,3 @@
+In this draft, I have experimented with different amounts of coolant. I also integrated a new strategy. Instead of sending the spacecraft 10m into the air again during descent, I have made it so that the spacecraft uses drag is such a way as to not lift the vehicle itself, but the hover in a position for a few seconds. This draft required me to make 2 simulations as the first was inaccurate, but even the second had some faults that were not being fixed.
+
+Due to the unfixable faults in the simulation, this was rejected.
